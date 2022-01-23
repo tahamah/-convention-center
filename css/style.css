@@ -19,7 +19,7 @@ header{
 
 /* Our Package section start  */
 .deepadhar-cards{
-    height: 550px;  
+    min-height: 550px; 
 }
 .deepadhar-highlighted-card{
     border-radius: 26px;
