@@ -13,7 +13,12 @@ header{
 }
 /* header end */
 
-
+.underline{
+    margin: 0% auto;
+    width: 180px;
+    height: 3px;
+    background-color: tomato;
+}
 
 /* Our Package section start  */
 .deepadhar-cards{
