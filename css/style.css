@@ -14,3 +14,6 @@ header{
     background-blend-mode: overlay ;
 }
 /* header end */
+.deep-border{
+    border: 50px solid blue;
+}
