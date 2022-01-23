@@ -4,3 +4,13 @@ body{
     font-family: 'Oswald', sans-serif;
     font-family: 'Prompt', sans-serif;
 }
+
+
+
+
+/* header start */
+header{
+    background-color: rgba(0,0,0, 8);
+    background-blend-mode: overlay ;
+}
+/* header end */
