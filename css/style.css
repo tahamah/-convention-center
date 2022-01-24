@@ -1,9 +1,11 @@
+/* common style start */
 body{
     font-family: 'Balsamiq Sans', cursive;
     font-family: 'Chewy', cursive;
     font-family: 'Oswald', sans-serif;
     font-family: 'Prompt', sans-serif;
 }
+/* common style end */
 
 /* header start */
 header{
@@ -12,12 +14,6 @@ header{
 }
 /* header end */
 
-.underline{
-    margin: 0% auto;
-    width: 180px;
-    height: 3px;
-    background-color: tomato;
-}
 
 /* Our Package section start  */
 .deepadhar-cards{
@@ -28,3 +24,12 @@ header{
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
 }
 /* Our Package section end  */
+
+/* Our location start */
+.underline{
+    margin: 0% auto;
+    width: 180px;
+    height: 3px;
+    background-color: tomato;
+}
+/* Our location end */
